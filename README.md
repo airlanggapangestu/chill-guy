@@ -6,12 +6,13 @@ i also made https://www.instagram.com/reel/DA_C0cFxa4Z/?utm_source=ig_web_button
 
 ## USE:
 it works on my machine, so idk why it wouldn't work on yours
-1. open vscode
-2. turn on your volume
-3. bring up terminal
-4. zoom out in vscode (cmd+'-' or ctrl+'-')
-5. "python skibidi.py"
-6. behold greatness
+1. clone https://github.com/JemLuu/chillguyyeahyeahyeahs.git
+2. open vscode
+3. turn on your volume
+4. bring up terminal
+5. zoom out in vscode (cmd+'-' or ctrl+'-')
+6. "python skibidi.py"
+7. behold greatness
 
 NOTE: 
 * you might have to zoom out because, well, he's just too chill to make himself smaller.
